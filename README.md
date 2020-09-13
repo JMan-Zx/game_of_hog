@@ -11,16 +11,16 @@ Players alternate turns to try to end their turn with 100 points (or more).
 Each turn, the active player may choose to roll 1 - 10 dice.
 The sum of the dice rolls is added to their points
 
-### Pig Out. 
+### Pig Out
 If any of the dice outcomes is a 1, the current player's score for the turn is 1.
 
-### Free Bacon. 
+### Free Bacon
 A player who chooses to roll zero dice scores k+3 points, where k is the nth digit of pi after the decimal point, and n is the total score of their opponent. As a special case, if the opponent's score is n = 0, then k = 3 (the digit of pi before the decimal point).
 
-### Swine Align. 
+### Swine Align
 After points for the turn are added to the current player's score, if both players have a positive score and the Greatest Common Divisor (GCD) of the current player's score and the opponent's score is at least 10, take another turn.
 
-### Pig Pass. 
+### Pig Pass
 After points for the turn are added to the current player's score, if the current player's score is lower than the opponent's score and the difference between them is less than 3, the current player takes another turn.
 
 ## Strategies
