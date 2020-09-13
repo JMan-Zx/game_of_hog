@@ -1,7 +1,7 @@
 # The Game of Hog
 A short implementation of The Game of Hog.
 
-Details about the game can be found at https://cs61a.org/proj/hog/#phase-1-simulator
+Details about the game can be found at https://cs61a.org/proj/hog/#rules
 
 ## Rules
 The variant implemented here contains the following rules.
